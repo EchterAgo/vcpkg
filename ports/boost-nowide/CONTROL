@@ -1,0 +1,4 @@
+Source: boost-nowide
+Version: 1.70.0
+Build-Depends: boost-config
+Description: Boost nowide module
