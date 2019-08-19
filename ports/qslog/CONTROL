@@ -1,0 +1,4 @@
+Source: qslog
+Version: 4656b450a1b2ce12c008f24b12f478ea9689a43f
+Build-Depends: qt5-base
+Description: QsLog is an easy to use logger that is based on Qt's QDebug class

@@ -1,0 +1,4 @@
+The package qslog provides CMake targets:
+
+    find_package(QsLog CONFIG REQUIRED)
+    target_link_libraries(main PRIVATE QsLog)
